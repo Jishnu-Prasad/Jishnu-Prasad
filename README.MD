@@ -49,8 +49,7 @@
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jishnu-Prasad&show_icons=true&hide_border=true" />
 
 </details>
-<!-- [website]: https://codeSTACKr.com -->
+
 [twitter]: https://twitter.com/JP_loves_coding
-<!-- [youtube]: https://youtube.com/codeSTACKr -->
 [linkedin]: https://www.linkedin.com/in/jishnu-prasad-97b625109/
 
