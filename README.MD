@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I’m currently working on [freeCodeCamp][https://www.freecodecamp.org/]! -->
 - 🌱 I’m currently learning everything.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun-Fact: I love repairing PC's or Laptops.
 
 
